@@ -1,0 +1,5 @@
+{
+    "request_queue":"rpc_request",
+    "response_queue":"rpc_response",
+    "rpc_port":"50051"
+}
